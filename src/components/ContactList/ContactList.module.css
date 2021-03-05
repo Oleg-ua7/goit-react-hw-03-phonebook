@@ -1,0 +1,8 @@
+.btn {
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 10px;
+}

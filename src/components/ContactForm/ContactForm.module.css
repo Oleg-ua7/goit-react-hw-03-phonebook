@@ -1,0 +1,26 @@
+.form {
+  width: 300px;
+  padding: 10px 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.labelName {
+  display: block;
+}
+
+.labelName:first-child {
+  margin-bottom: 15px;
+}
+
+.input {
+  display: block;
+  width: 150px;
+  margin-top: 5px;
+  padding: 3px;
+}
+
+.btn {
+  display: block;
+  margin-top: 20px;
+}
